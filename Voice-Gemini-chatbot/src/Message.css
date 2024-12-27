@@ -1,0 +1,45 @@
+.message {
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    clear: both;
+    display: inline-block;
+    max-width: 70%;
+    word-wrap: break-word;
+}
+
+.user-message {
+    background-color: #e0f7fa;
+    float: right;
+}
+
+.gemini-message {
+    background-color: #f0f0f0;
+    float: left;
+}
+
+.message-text {
+    margin: 0;
+}
+
+.gemini-content {
+    margin-top: 10px;
+    display: block;
+}
+
+.gemini-content.img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.gemini-content.a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.gemini-content iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border: none;
+}
