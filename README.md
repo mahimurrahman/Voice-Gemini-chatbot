@@ -4,6 +4,8 @@
 ## Description
 
 Voice Gemini Explorer is a voice-powered web application that utilizes speech recognition and interacts with the Gemini model from Google's Generative Language API. It provides a seamless interface for users to engage in natural language conversations through voice or text input.
+![image](https://github.com/user-attachments/assets/b9500054-bb8c-4d17-8dfb-2bd8ef620cd3)
+
 
 ## Table of Contents
 
